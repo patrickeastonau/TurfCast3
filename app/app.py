@@ -3,11 +3,11 @@ from typing import Any
 from app.state import LawnState, GRASS_INFO, SPRINKLER_TYPES, DAYS_OF_WEEK
 
 SPRINKLER_IMAGES = {
-    "Oscillating": "/oscillating_lawn_sprinkler.png",
-    "Fixed/Dome": "/dome_lawn_sprinkler.png",
-    "Rotary/Gear-drive": "/gear_lawn_rotary.png",
-    "Impact": "/impact_lawn_sprinkler.png",
-    "Dripline": "/irrigation_dripline_system.png",
+    "Oscillating": "/placeholder.svg",
+    "Fixed/Dome": "/placeholder.svg",
+    "Rotary/Gear-drive": "/placeholder.svg",
+    "Impact": "/placeholder.svg",
+    "Dripline": "/placeholder.svg",
 }
 
 
